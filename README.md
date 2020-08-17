@@ -3,7 +3,7 @@
 ## I'm a Final Year M.tech Student (ICT) From University of Rajasthan
 
 - 🌱 I’m currently learning Full Stack Web Development.
-- ⚡ My Hobbies: I love to Teach and share knowledge.
+- ⚡ Fun Fact: I love to Teach and share knowledge.
 
 
 ### Connect with me:
