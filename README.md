@@ -7,7 +7,7 @@
 - ⚡ Fun Fact: I love to Teach and share knowledge.
 
 ### Earlier Contributions:
-[LockedUpCoders] - Part of The Uplift Project 2020 by Girlscript Foundation.
+[LockedUpCoders] - Part of [The Uplift Project] 2020 by [Girlscript Foundation].
 
 ### Connect with me:
 
@@ -44,3 +44,6 @@
 
 [linkedin]: https://linkedin.com/in/tejansingh
 [LockedUpCoders]: https://github.com/LockedUp-Coders/user-interface
+[The Uplift Project]:https://upliftproject.tech
+[Girlscript Foundation]:https://www.girlscript.tech
+
