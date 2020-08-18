@@ -6,7 +6,7 @@
 - ⚡ Fun Fact: I love to Teach and share knowledge.
 
 ### Earlier Contributions:
-[LockedUpCoders] - Part of [The Uplift Project] by Girlscript Foundation.
+[LockedUpCoders] - Part of The Uplift Project 2020 by Girlscript Foundation.
 
 ### Connect with me:
 
