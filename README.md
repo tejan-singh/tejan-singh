@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Full Stack Web Development.
 - ⚡ Fun Fact: I love to Teach and share knowledge.
 
+### Earlier Contributions:
+[LockedUpCoders] - Part of [The Uplift Project] by Girlscript Foundation.
 
 ### Connect with me:
 
@@ -40,3 +42,4 @@
 
 
 [linkedin]: https://linkedin.com/in/tejansingh
+[LockedUpCoders]: https://github.com/LockedUp-Coders/user-interface
