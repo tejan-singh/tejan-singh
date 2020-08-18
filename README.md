@@ -1,7 +1,6 @@
 ## Hi there, I'm Tejan!
 
 ### I'm a Final Year M.tech(ICT) Student From University of Rajasthan.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejan-singh" alt="tejan-singh" /> </p>
 
 - 🌱 I’m currently learning Full Stack Web Development.
 - ⚡ Fun Fact: I love to Teach and share knowledge.
