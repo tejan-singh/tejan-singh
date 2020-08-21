@@ -1,4 +1,4 @@
-## Hi there, I'm Tejan!
+## Hi there 👋, I'm Tejan!
 
 ### I'm a Final Year M.tech(ICT) Student From University of Rajasthan.
 
