@@ -36,10 +36,10 @@
   <summary>:zap: My Github Stats</summary>
   <img align="left" alt="tejan-singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" />
   <img align="left" alt="Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejan-singh&title_color=2257EA&bg_color=f7f7f7&layout=compact&hide=html&hide_border=true" />
-  
+
 </details>
 
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 [linkedin]: https://linkedin.com/in/tejansingh
 [LockedUpCoders]: https://github.com/LockedUp-Coders/user-interface
