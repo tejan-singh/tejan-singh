@@ -35,7 +35,7 @@
 <details>
   <summary>:zap: My Github Stats</summary>
   <img align="left" alt="tejan-singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejan-singh&title_color=2257EA&bg_color=f7f7f7&layout=compact&hide=html)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=tejan-singh&title_color=2257EA&bg_color=f7f7f7&layout=compact&hide=html
 </details>
 
 
