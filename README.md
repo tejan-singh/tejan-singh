@@ -41,7 +41,7 @@
 </details>
 
 [linkedin]: https://linkedin.com/in/tejansingh
-[LockedUpCoders]: https://github.com/LockedUp-Coders/user-interface
+[LockedUpCoders]: https://github.com/LockedUp-Coders
 [The Uplift Project]:https://upliftproject.tech
 [Girlscript Foundation]:https://www.girlscript.tech
 
