@@ -36,7 +36,7 @@
   <summary>:zap: My Github Stats</summary>
   <img align="left" alt="tejan-singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" />
   <br>
-<!-- TODO : Dev Metrics : https://github.com/anmol098/waka-readme-stats -->
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejan-singh)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
