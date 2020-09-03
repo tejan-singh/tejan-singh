@@ -36,7 +36,7 @@
   <summary>:zap: My Github Stats</summary>
   <img align="left" alt="tejan-singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" />
   <br>
-  <img align="left" alt="Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejan-singh&title_color=2257EA&bg_color=f7f7f7&layout=compact&hide=html&hide_border=true" />
+<!-- TODO : Dev Metrics : https://github.com/anmol098/waka-readme-stats -->
 
 </details>
 
