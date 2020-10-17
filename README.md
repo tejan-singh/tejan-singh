@@ -2,11 +2,9 @@
 
 ### I'm a Final Year M.tech(ICT) Student From University of Rajasthan.
 
+- 💻 I am a frontend and python developer.
 - 🌱 I’m currently learning Full Stack Web Development.
 - ⚡ Fun Fact: I love to Teach and share knowledge.
-
-### Earlier Contributions:
-[LockedUpCoders] - Part of [The Uplift Project] 2020 by [Girlscript Foundation].
 
 ### Connect with me:
 
