@@ -7,7 +7,7 @@
 - ✨ I like working and contributing to open source projects.
 - ⚡ Fun Fact: I love to Teach and share knowledge.
 
-### Connect with me:
+### Connect with me on:
 
 [<img align="left" alt="Tejan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
