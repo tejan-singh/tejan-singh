@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm Tejan!
+## Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Tejan!
 
 <p  align="center"><img src="https://qphs.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8" alt="Coder GIF" width="500" height="400">
 
