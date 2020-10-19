@@ -28,18 +28,8 @@
 
 <br />
 
----
-
-
-
 <details>
   <summary>:zap: My Github Stats</summary>
   <img align="left" alt="tejan-singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" />
 
 </details>
-
-[linkedin]: https://linkedin.com/in/tejansingh
-[LockedUpCoders]: https://github.com/LockedUp-Coders
-[The Uplift Project]:https://upliftproject.tech
-[Girlscript Foundation]:https://www.girlscript.tech
-
