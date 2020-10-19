@@ -11,9 +11,7 @@
 
 ### Connect with me on:
 
-[<img align="left" alt="Tejan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[![Linkedin Badge](https://img.shields.io/badge/-tejan-singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
+[![Linkedin Badge](https://img.shields.io/badge/-tejansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
 
 <br />
 
