@@ -6,6 +6,7 @@
 
 - 💻 I am a frontend and python developer.
 - 🌱 I’m currently learning Full Stack Web Development.
+- 💡 I am also interested in Networking, Cloud Computing and Cybersecurity.
 - ✨ I like working and contributing to open source projects.
 - ⚡ Fun Fact: I love to Teach and share knowledge.
 
