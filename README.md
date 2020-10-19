@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Tejan!
 
+<p  align="center"><img src="https://qphs.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8" alt="Coder GIF" width="500" height="400">
+
 ### I'm a Final Year M.tech(ICT) Student From University of Rajasthan.
 
 - 💻 I am a frontend and python developer.
