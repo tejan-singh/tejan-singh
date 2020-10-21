@@ -10,6 +10,8 @@
 - ✨ I like working and contributing to open source projects.
 - ⚡ Fun Fact: I love to Teach and share knowledge.
 
+### Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
+
 ### Connect with me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tejansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
