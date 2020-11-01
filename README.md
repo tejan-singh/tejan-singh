@@ -12,7 +12,7 @@
 
 ### Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
 
-### Connect with me on:
+### You can connect with me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tejansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
 
