@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💡 I am also interested in Networking, Cloud Computing and Cybersecurity.
 - ✨ I like working and contributing to open source projects.
-- ⚡ Fun Fact: I like Teaching, Mentoring and sharing intersting stuff.
+- ⚡ Fun Fact: I like teaching, mentoring and sharing intersting stuff.
 
 ### Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
 
