@@ -34,4 +34,5 @@
 
 <img align="left" alt="tejan-singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" />
 
+![GitHub metrics](https://metrics.lecoq.io/tejan-singh) 
 
