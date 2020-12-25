@@ -34,9 +34,9 @@
 
 <br/>
 
----
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" alt="tejan-singh's Github Stats" />
+</p>
 
-<img align="left" alt="tejan-singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" />
-
-![GitHub metrics](https://metrics.lecoq.io/tejan-singh) 
-
+<p align = "center">
+<img src="https://metrics.lecoq.io/tejan-singh" alt = "tejan-singh's GitHub Stats">
+</p>
