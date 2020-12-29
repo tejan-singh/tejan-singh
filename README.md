@@ -1,4 +1,4 @@
-# Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Tejan! Welcome to my GitHub Profile!
+## Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Tejan! Welcome to my GitHub Profile!
 
 <img align="right" src="https://qphs.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8" alt="Coder GIF" width="450px" height="300px">
 
@@ -32,9 +32,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" img align="left"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" img align="left"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" img align="left"/>
-</br>
 
----
+</br></br>
 
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" alt="tejan-singh's Github Stats" />
 </p>
