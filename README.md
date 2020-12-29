@@ -4,12 +4,12 @@
 
 ### I'm a Senior M.tech(ICT) Student From University of Rajasthan.
 
-- 💻 I am a Frontend and Python Developer.
-- ✨ I am also Mentor for open-source projects.
-- 🌱 I’m currently learning Full Stack Web Development.
-- 💡 I am also interested in Networking, Cloud Computing and Cybersecurity.
-- ✨ I like working and contributing to open source projects.
-- ⚡ Fun Fact: I like teaching, mentoring, writing, reading and sharing intersting stuff.
+- 💻 &nbsp; I am a Frontend and Python Developer.
+- ✨ &nbsp; I am also Mentor for open-source projects.
+- 🌱 &nbsp; I’m currently learning Full Stack Web Development.
+- 🚀 &nbsp; I am also interested in Networking, Cloud Computing and Cybersecurity.
+- 👨🏻‍💻 &nbsp; I like working and contributing to open source projects.
+- ⚡ &nbsp; Fun Fact: I like teaching, mentoring, writing, reading and sharing intersting stuff.
 
 ### Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
 
