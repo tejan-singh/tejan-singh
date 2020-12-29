@@ -1,7 +1,7 @@
 # Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Tejan!
 ## Welcome to my GitHub Profile!
 
-<p  align="center"><img src="https://qphs.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8" alt="Coder GIF" width="450px" height="300px">
+<img align="right" src="https://qphs.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8" alt="Coder GIF" width="450px" height="300px">
 
 ### I'm a Senior M.tech(ICT) Student From University of Rajasthan.
 
