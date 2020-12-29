@@ -1,4 +1,4 @@
-## Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Tejan! Welcome to my GitHub Profile!
+# Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Tejan. Welcome to my GitHub Profile!
 
 <img align="right" src="https://qphs.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8" alt="Coder GIF" width="450px" height="300px">
 
@@ -38,6 +38,3 @@
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" alt="tejan-singh's Github Stats" />
 </p>
 
-<p align = "center">
-<img src="https://metrics.lecoq.io/tejan-singh" alt = "tejan-singh's GitHub Stats">
-</p>
