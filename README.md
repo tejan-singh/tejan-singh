@@ -2,7 +2,7 @@
 
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="450px" height="300px">
 
-### I'm a Senior M.tech(ICT) Student From University of Rajasthan.
+### I'm a Senior M.Tech(ICT) Student From University of Rajasthan.
 
 - 💻 &nbsp; I am a Frontend and Python Developer.
 - ✨ &nbsp; I am also Mentor for open-source projects.
