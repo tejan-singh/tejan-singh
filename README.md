@@ -33,8 +33,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40" img align="left"/> 
 </p>
 
-<br><br>
-
 ### My Github Stats:
 <p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" alt="tejan-singh's Github Stats" />
 </p>
