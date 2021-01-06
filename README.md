@@ -22,8 +22,11 @@
 <p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" alt="tejan-singh's Github Stats" />
 </p>
 
-### Languages and Tools I use:
+### Earned Badges:
+<img src="https://user-images.githubusercontent.com/50990883/103812689-e3a3cc80-5084-11eb-929e-6b3e549c8e85.png" alt="hacktoberfest2020" img align="left">
+<img src="https://user-images.githubusercontent.com/50990883/103812918-41381900-5085-11eb-8fd0-e040b46662b7.jpg" alt="sanscript-mentor" width="200" height="200">
 
+### Languages and Tools I use:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40" img align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" img align="left"/>
