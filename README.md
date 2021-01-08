@@ -23,8 +23,8 @@
 </p>
 
 ### Earned Badges:
-<img src="https://user-images.githubusercontent.com/50990883/103812689-e3a3cc80-5084-11eb-929e-6b3e549c8e85.png" alt="hacktoberfest2020" img align="left">
-<img src="https://user-images.githubusercontent.com/50990883/103812918-41381900-5085-11eb-8fd0-e040b46662b7.jpg" alt="sanscript-mentor" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/50990883/103812689-e3a3cc80-5084-11eb-929e-6b3e549c8e85.png" alt="hacktoberfest2020" img align="left" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/50990883/103812918-41381900-5085-11eb-8fd0-e040b46662b7.jpg" alt="sanscript-mentor" width="150" height="150">
 
 ### Languages and Tools I use:
 <p>
