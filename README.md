@@ -14,9 +14,10 @@
 ### Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
 
 ### Open-Soucre Project Mentor:
+
+<img src = "https://user-images.githubusercontent.com/50990883/104121687-3079f280-5366-11eb-9ed7-dcd3a54d2390.png" href="" width="150" height="150">
+<img src = "https://user-images.githubusercontent.com/50990883/104121780-e7766e00-5366-11eb-8aae-50a1349a2175.png" href="" width="150" height="150" align = "left">
 <img src = "https://user-images.githubusercontent.com/50990883/104121685-2e179880-5366-11eb-9746-c28e1599397e.png" href="" width="150" height="150" align = "left">
-<img scr = "https://user-images.githubusercontent.com/50990883/104121704-5bfcdd00-5366-11eb-9c96-4aecc4e9a2f3.png" href="" width="150" height="150" align = "left">
-<img scr = "https://user-images.githubusercontent.com/50990883/104121687-3079f280-5366-11eb-9ed7-dcd3a54d2390.png" href="" width="150" height="150">
 
 ### You can connect with me on:
 
