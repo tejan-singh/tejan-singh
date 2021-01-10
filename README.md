@@ -15,9 +15,9 @@
 
 ### Open-Soucre Project Mentor:
 
-<img src = "https://user-images.githubusercontent.com/50990883/104121780-e7766e00-5366-11eb-8aae-50a1349a2175.png" href="" width="150" height="150" align = "left">
-<img src = "https://user-images.githubusercontent.com/50990883/104121685-2e179880-5366-11eb-9746-c28e1599397e.png" href="" width="150" height="150" align = "left">
-<img src = "https://user-images.githubusercontent.com/50990883/104121829-58b62100-5367-11eb-8b7b-36a1fb2912b3.png" href="" width="150" height="150" >
+<img src = "https://user-images.githubusercontent.com/50990883/104121780-e7766e00-5366-11eb-8aae-50a1349a2175.png" href="https://swoc.tech/" width="150" height="150" align = "left">
+<img src = "https://user-images.githubusercontent.com/50990883/104121685-2e179880-5366-11eb-9746-c28e1599397e.png" href="https://devscript.tech/woc/" width="150" height="150" align = "left">
+<img src = "https://user-images.githubusercontent.com/50990883/104121829-58b62100-5367-11eb-8b7b-36a1fb2912b3.png" href="https://aos.sanscript.tech/" width="150" height="150" >
 
 ### You can connect with me on:
 
