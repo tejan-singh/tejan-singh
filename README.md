@@ -4,7 +4,7 @@
 
 ### I'm a Senior M.Tech(ICT) Student From University of Rajasthan.
 
-- 💻 &nbsp; I am a Frontend and Python Developer.
+- 💻 &nbsp; I am a Frontend Developer.
 - ✨ &nbsp; I am also Mentor for open-source projects.
 - 🌱 &nbsp; I’m currently learning Full Stack Web Development.
 - 🚀 &nbsp; I am also interested in Networking, Cloud Computing and Cybersecurity.
