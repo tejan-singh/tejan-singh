@@ -29,7 +29,7 @@
 
 ### My Github Stats:
 
-<p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&hide_border=true&bg_color=f7f7f7&layout=compact&hide=html" alt="tejan-singh's Github Stats" />
+<p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true&layout=compact&hide=html" alt="tejan-singh's Github Stats" />
 </p>
 
 ### Earned Badges:
