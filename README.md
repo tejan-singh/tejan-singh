@@ -32,6 +32,8 @@
 <p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true" alt="tejan-singh's Github Stats"/>
 </p>
 
+![Metrics](https://metrics.lecoq.io/tejan-singh?template=classic&followup=1&config.timezone=Asia%2FKolkata&config.animated=true)
+
 ### Recent Activites:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#335](https://github.com/HITK-TECH-Community/Community-Website/pull/335) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
