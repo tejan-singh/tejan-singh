@@ -32,6 +32,9 @@
 <p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true" alt="tejan-singh's Github Stats"/>
 </p>
 
+### Recent activites
+<!--START_SECTION:activity-->
+
 ### Earned Badges:
 <img src="https://user-images.githubusercontent.com/50990883/103812689-e3a3cc80-5084-11eb-929e-6b3e549c8e85.png" alt="hacktoberfest2020" img align="left" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/50990883/103812918-41381900-5085-11eb-8fd0-e040b46662b7.jpg" alt="sanscript-mentor" width="100" height="100">
