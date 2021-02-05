@@ -34,6 +34,12 @@
 
 ### Recent activites
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#335](https://github.com/HITK-TECH-Community/Community-Website/pull/335) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+2. ❗️ Closed issue [#328](https://github.com/HITK-TECH-Community/Community-Website/issues/328) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+3. 💪 Opened PR [#5](https://github.com/akshayaky/gICCa/pull/5) in [akshayaky/gICCa](https://github.com/akshayaky/gICCa)
+4. 💪 Opened PR [#6](https://github.com/SantamRC/Elixir/pull/6) in [SantamRC/Elixir](https://github.com/SantamRC/Elixir)
+5. ❗️ Closed issue [#54](https://github.com/PragatiVerma18/Snippet-Share/issues/54) in [PragatiVerma18/Snippet-Share](https://github.com/PragatiVerma18/Snippet-Share)
+<!--END_SECTION:activity-->
 
 ### Earned Badges:
 <img src="https://user-images.githubusercontent.com/50990883/103812689-e3a3cc80-5084-11eb-929e-6b3e549c8e85.png" alt="hacktoberfest2020" img align="left" width="100" height="100">
