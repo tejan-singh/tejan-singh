@@ -32,7 +32,7 @@
 <p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true" alt="tejan-singh's Github Stats"/>
 </p>
 
-### Recent activites
+### Recent Activites:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#335](https://github.com/HITK-TECH-Community/Community-Website/pull/335) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
 2. ❗️ Closed issue [#328](https://github.com/HITK-TECH-Community/Community-Website/issues/328) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
