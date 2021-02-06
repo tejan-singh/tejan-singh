@@ -13,7 +13,7 @@
 
 ### Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
 
-### Open-Soucre Project Mentor at:
+### Open-Source Project Mentor at:
 
 <a href="https://swoc.tech/"> <img src = "https://user-images.githubusercontent.com/50990883/104121780-e7766e00-5366-11eb-8aae-50a1349a2175.png" width="100" height="100" align = "left"> </a>
 <a href="https://devscript.tech/woc/">
