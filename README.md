@@ -34,8 +34,6 @@
 
 ![Metrics](https://github.com/tejan-singh/tejan-singh/blob/master/github-metrics.svg)
 
-![Metrics](https://metrics.lecoq.io/tejan-singh?template=classic&followup=1&config.timezone=Asia%2FKolkata&config.animated=true)
-
 ### Recent Activites:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#335](https://github.com/HITK-TECH-Community/Community-Website/pull/335) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
