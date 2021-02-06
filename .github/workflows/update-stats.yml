@@ -1,26 +1,18 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: GitHub metrics as SVG image
+name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0/1 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
   push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: tejan-singh
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_animated: yes
-          config_timezone: Asia/Kolkata
-          plugin_followup: yes
