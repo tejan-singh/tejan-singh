@@ -32,6 +32,8 @@
 <p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true" alt="tejan-singh's Github Stats"/>
 </p>
 
+![Metrics](https://github.com/tejan-singh/tejan-singh/blob/master/github-metrics.svg)
+
 ![Metrics](https://metrics.lecoq.io/tejan-singh?template=classic&followup=1&config.timezone=Asia%2FKolkata&config.animated=true)
 
 ### Recent Activites:
