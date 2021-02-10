@@ -39,11 +39,11 @@
 
 ### Recent Activites:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#335](https://github.com/HITK-TECH-Community/Community-Website/pull/335) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-2. ❗️ Closed issue [#328](https://github.com/HITK-TECH-Community/Community-Website/issues/328) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-3. 💪 Opened PR [#5](https://github.com/akshayaky/gICCa/pull/5) in [akshayaky/gICCa](https://github.com/akshayaky/gICCa)
-4. 💪 Opened PR [#6](https://github.com/SantamRC/Elixir/pull/6) in [SantamRC/Elixir](https://github.com/SantamRC/Elixir)
-5. ❗️ Closed issue [#54](https://github.com/PragatiVerma18/Snippet-Share/issues/54) in [PragatiVerma18/Snippet-Share](https://github.com/PragatiVerma18/Snippet-Share)
+1. ❌ Closed PR [#294](https://github.com/HITK-TECH-Community/Community-Website/pull/294) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+2. 🗣 Commented on [#365](https://github.com/HITK-TECH-Community/Community-Website/issues/365) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+3. 🗣 Commented on [#377](https://github.com/HITK-TECH-Community/Community-Website/issues/377) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+4. 🎉 Merged PR [#373](https://github.com/HITK-TECH-Community/Community-Website/pull/373) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+5. ❗️ Closed issue [#369](https://github.com/HITK-TECH-Community/Community-Website/issues/369) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
 <!--END_SECTION:activity-->
 
 ### Earned Badges:
