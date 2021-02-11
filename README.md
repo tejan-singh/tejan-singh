@@ -39,11 +39,11 @@
 
 ### Recent Activites:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#343](https://github.com/HITK-TECH-Community/Community-Website/issues/343) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-2. ❌ Closed PR [#294](https://github.com/HITK-TECH-Community/Community-Website/pull/294) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-3. 🗣 Commented on [#365](https://github.com/HITK-TECH-Community/Community-Website/issues/365) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-4. 🗣 Commented on [#377](https://github.com/HITK-TECH-Community/Community-Website/issues/377) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-5. 🎉 Merged PR [#373](https://github.com/HITK-TECH-Community/Community-Website/pull/373) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+1. 🎉 Merged PR [#377](https://github.com/HITK-TECH-Community/Community-Website/pull/377) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+2. ❗️ Closed issue [#337](https://github.com/HITK-TECH-Community/Community-Website/issues/337) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+3. ❗️ Closed issue [#343](https://github.com/HITK-TECH-Community/Community-Website/issues/343) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+4. ❌ Closed PR [#294](https://github.com/HITK-TECH-Community/Community-Website/pull/294) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+5. 🗣 Commented on [#365](https://github.com/HITK-TECH-Community/Community-Website/issues/365) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
 <!--END_SECTION:activity-->
 
 ### Earned Badges:
