@@ -7,9 +7,9 @@
 - I am a Frontend Developer.
 - I am also Mentor for open-source projects.
 - I’m currently learning Full Stack Web Development.
-- I am also interested in Networking, Cloud Computing and Cybersecurity.
+- I am fascinated with Computer Networking, Cloud Computing and Cybersecurity.
 - I like working and contributing to open source projects.
-- Fun Fact: I like teaching, mentoring, writing, reading and sharing intersting stuff.
+- My hobbies include teaching and mentoring students, writing blogs, reading books & articles and always improving myself.
 
 ### Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
 
