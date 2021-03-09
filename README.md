@@ -19,7 +19,7 @@
   <tr>
     <td align="center"><a href="https://gssoc.girlscript.tech/"><img src="https://user-images.githubusercontent.com/50990883/108538140-79797b00-7304-11eb-8fbe-dc7570b3a329.png" width="100px;" alt=""/><br /><sub><b>GSSOC'21</b></sub></a></td>
     
-   <td align="center"><a href="https://swoc.tech/"><img height="100px" src="https://user-images.githubusercontent.com/50990883/104121780-e7766e00-5366-11eb-8aae-50a1349a2175.png" width="100px;" alt=""/><br /><sub><b>SWOC'21</b></sub></a></td>
+   <td align="center"><a href="https://swoc.tech/"><img height="80px" src="https://user-images.githubusercontent.com/50990883/104121780-e7766e00-5366-11eb-8aae-50a1349a2175.png" width="100px;" alt=""/><br /><sub><b>SWOC'21</b></sub></a></td>
     
    <td align="center"><a href="https://devscript.tech/woc/"><img src="https://user-images.githubusercontent.com/50990883/104121685-2e179880-5366-11eb-9746-c28e1599397e.png" width="100px;" alt=""/><br /><sub><b>DWOC'21</b></sub></a></td>
     
