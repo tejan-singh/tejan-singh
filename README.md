@@ -13,7 +13,7 @@
 
 ### Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
 
-### Open-Source Project Mentor at:
+### Open-Source Project Mentor at: 
 
 <table>
   <tr>
@@ -40,6 +40,9 @@
 <a href="https://devscript.tech/woc/"><img src = "https://user-images.githubusercontent.com/50990883/104121685-2e179880-5366-11eb-9746-c28e1599397e.png"  width="100" height="100" align = "left"></a>
 <a href="https://aos.sanscript.tech/"> <img src = "https://user-images.githubusercontent.com/50990883/104121829-58b62100-5367-11eb-8b7b-36a1fb2912b3.png"  width="100" height="100" ></a>
 -->
+
+### Here are [My Published Blogs!](https://iq.opengenus.org/author/tejan/)
+
 ### You can connect with me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tejansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
