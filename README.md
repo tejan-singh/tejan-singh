@@ -11,9 +11,9 @@
 - I like working together and contributing to **Open-Source Projects**.
 - My hobbies include **teaching and mentoring students, writing blogs, reading books & articles and always improving myself**.
 
-### Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
+### - Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
 
-### Open-Source Project Mentor at: 
+### - Open-Source Project Mentor at: 
 
 <table>
   <tr>
@@ -41,13 +41,13 @@
 <a href="https://aos.sanscript.tech/"> <img src = "https://user-images.githubusercontent.com/50990883/104121829-58b62100-5367-11eb-8b7b-36a1fb2912b3.png"  width="100" height="100" ></a>
 -->
 
-### Here are [My Published Blogs!](https://iq.opengenus.org/author/tejan/)
+### - Here are [My Published Blogs!](https://iq.opengenus.org/author/tejan/)
 
-### You can connect with me on:
+### - You can connect with me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tejansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
 
-### My Github Stats:
+### - My Github Stats:
 
 <p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true" alt="tejan-singh's Github Stats"/>
 </p>
@@ -57,7 +57,7 @@
 
 
 
-### Recent Activites:
+### - Recent Activites:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
 2. ❌ Reopened PR [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/pull/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
@@ -66,11 +66,11 @@
 5. 🎉 Merged PR [#445](https://github.com/HITK-TECH-Community/Community-Website/pull/445) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
 <!--END_SECTION:activity-->
 
-### Earned Badges:
+### - Earned Badges:
 <img src="https://user-images.githubusercontent.com/50990883/103812689-e3a3cc80-5084-11eb-929e-6b3e549c8e85.png" alt="hacktoberfest2020" img align="left" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/50990883/103812918-41381900-5085-11eb-8fd0-e040b46662b7.jpg" alt="sanscript-mentor" width="100" height="100">
 
-### Languages and Tools I use:
+### - Languages and Tools I use:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" width="40" height="40" img align="left"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40" img align="left"/>
