@@ -41,7 +41,7 @@
 <a href="https://aos.sanscript.tech/"> <img src = "https://user-images.githubusercontent.com/50990883/104121829-58b62100-5367-11eb-8b7b-36a1fb2912b3.png"  width="100" height="100" ></a>
 -->
 
-### - Here are [My Published Blogs!](https://iq.opengenus.org/author/tejan/)
+### - Here are [My Published Articles!](https://iq.opengenus.org/author/tejan/)
 
 ### - You can connect with me on:
 
