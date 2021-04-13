@@ -26,7 +26,7 @@
    <td align="center"><a href="https://aos.sanscript.tech/"><img src="https://user-images.githubusercontent.com/50990883/104121829-58b62100-5367-11eb-8b7b-36a1fb2912b3.png" width="100px;" alt=""/><br /><sub><b> AOS'20</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/praveenscience/Internship-LMS-FrontEnd"><sub><b>Project DevTernShip</b></sub></a></td>
+      <td align="center"><a href="https://github.com/praveenscience/Internship-LMS-FrontEnd"><sub><b>Project DevTernShip</b></sub></a> <a href="https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend"><sub><b>Opportunity-Calendar</b></sub></a></td>
       <td align="center"><a href="https://github.com/HITK-TECH-Community/Community-Website"><sub><b>Project HIT-K Community</b></sub></a></td>
       <td align="center"><a href="https://github.com/HITK-TECH-Community/Community-Website"><sub><b>Project HIT-K Community</b></sub></a></td>
       <td align="center"><a href="https://github.com/sanscript-tech/hacking-tools-scripts"><sub><b>Project Hacking Tools</b></sub></a></td>
