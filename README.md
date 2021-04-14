@@ -59,11 +59,11 @@
 
 ### - Recent Activites:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
-2. ❌ Reopened PR [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/pull/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
-3. 💪 Opened PR [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/pull/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
-4. 🗣 Commented on [#471](https://github.com/HITK-TECH-Community/Community-Website/issues/471) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-5. 🎉 Merged PR [#445](https://github.com/HITK-TECH-Community/Community-Website/pull/445) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
+1. 🗣 Commented on [#199](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/199) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+2. 🗣 Commented on [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+3. ❌ Reopened PR [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/pull/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+4. 💪 Opened PR [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/pull/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+5. 🗣 Commented on [#471](https://github.com/HITK-TECH-Community/Community-Website/issues/471) in [HITK-TECH-Community/Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
 <!--END_SECTION:activity-->
 
 ### - Earned Badges:
