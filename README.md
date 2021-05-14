@@ -59,11 +59,11 @@
 
 ### - Recent Activites:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/199) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+1. 💪 Opened PR [#8231](https://github.com/education/GitHubGraduation-2021/pull/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 2. 🗣 Commented on [#199](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/199) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
-3. 🗣 Commented on [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
-4. ❌ Reopened PR [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/pull/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
-5. 💪 Opened PR [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/pull/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+3. 🗣 Commented on [#199](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/199) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
+4. 🗣 Commented on [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
+5. ❌ Reopened PR [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/pull/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
 <!--END_SECTION:activity-->
 
 ### - Currently working on [Blog-App](https://github.com/tejan-singh/Blog-App)
