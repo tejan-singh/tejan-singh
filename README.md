@@ -66,8 +66,6 @@
 5. ❌ Reopened PR [#75](https://github.com/praveenscience/Internship-LMS-FrontEnd/pull/75) in [praveenscience/Internship-LMS-FrontEnd](https://github.com/praveenscience/Internship-LMS-FrontEnd)
 <!--END_SECTION:activity-->
 
-### - Currently working on [Blog-App](https://github.com/tejan-singh/Blog-App)
-
 ### - Earned Badges:
 <img src="https://user-images.githubusercontent.com/50990883/103812689-e3a3cc80-5084-11eb-929e-6b3e549c8e85.png" alt="hacktoberfest2020" img align="left" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/50990883/103812918-41381900-5085-11eb-8fd0-e040b46662b7.jpg" alt="sanscript-mentor" width="100" height="100">
