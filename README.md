@@ -25,21 +25,8 @@
     
    <td align="center"><a href="https://aos.sanscript.tech/"><img src="https://user-images.githubusercontent.com/50990883/104121829-58b62100-5367-11eb-8b7b-36a1fb2912b3.png" width="100px;" alt=""/><br /><sub><b> AOS'20</b></sub></a></td>
     </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/praveenscience/Internship-LMS-FrontEnd"><sub><b>Project DevTernShip</b></sub></a>
-      <td align="center"><a href="https://github.com/HITK-TECH-Community/Community-Website"><sub><b>Project HIT-K Community</b></sub></a></td>
-      <td align="center"><a href="https://github.com/HITK-TECH-Community/Community-Website"><sub><b>Project HIT-K Community</b></sub></a></td>
-      <td align="center"><a href="https://github.com/sanscript-tech/hacking-tools-scripts"><sub><b>Project Hacking Tools</b></sub></a></td>
-    </tr>
-    
 </table>
 
-<!---
-<a href="https://gssoc.girlscript.tech/"><img src = "https://user-images.githubusercontent.com/50990883/108538140-79797b00-7304-11eb-8fbe-dc7570b3a329.png" width="100" height="100" align = "left"></a>
-<a href="https://swoc.tech/"> <img src = "https://user-images.githubusercontent.com/50990883/104121780-e7766e00-5366-11eb-8aae-50a1349a2175.png" width="100" height="100" align = "left"></a>
-<a href="https://devscript.tech/woc/"><img src = "https://user-images.githubusercontent.com/50990883/104121685-2e179880-5366-11eb-9746-c28e1599397e.png"  width="100" height="100" align = "left"></a>
-<a href="https://aos.sanscript.tech/"> <img src = "https://user-images.githubusercontent.com/50990883/104121829-58b62100-5367-11eb-8b7b-36a1fb2912b3.png"  width="100" height="100" ></a>
--->
 
 ### - Here are [My Published Articles!](https://iq.opengenus.org/author/tejan/)
 
