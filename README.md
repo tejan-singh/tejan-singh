@@ -5,11 +5,10 @@
 ### I'm a Senior M.Tech(ICT) Student From University of Rajasthan.
 
 - I am a **Frontend Developer**.
-- I am also **Mentor** for open-source projects.
-- I’m currently learning **Full Stack Web Development**.
-- I am fascinated with **Computer Networking, Cloud Computing and Cybersecurity.**
+- I am also a **Mentor** for open-source projects.
 - I like working together and contributing to **Open-Source Projects**.
-- My hobbies include **teaching and mentoring students, writing blogs, reading books & articles and always improving myself**.
+- I’m currently learning **Full Stack Web Development**.
+
 
 ### - Project Maintainer 📜 at [Hacking-tools-script](https://github.com/sanscript-tech/hacking-tools-scripts)
 
