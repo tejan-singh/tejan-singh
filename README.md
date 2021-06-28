@@ -45,11 +45,11 @@
 
 ### - Recent Activites:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/tejan-singh/task-manager/pull/12) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
-2. 💪 Opened PR [#11](https://github.com/tejan-singh/task-manager/pull/11) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
-3. 💪 Opened PR [#10](https://github.com/tejan-singh/task-manager/pull/10) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
-4. 💪 Opened PR [#9](https://github.com/tejan-singh/task-manager/pull/9) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
-5. 💪 Opened PR [#8](https://github.com/tejan-singh/task-manager/pull/8) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
+1. 🗣 Commented on [#8231](https://github.com/education/GitHubGraduation-2021/issues/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. 💪 Opened PR [#12](https://github.com/tejan-singh/task-manager/pull/12) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
+3. 💪 Opened PR [#11](https://github.com/tejan-singh/task-manager/pull/11) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
+4. 💪 Opened PR [#10](https://github.com/tejan-singh/task-manager/pull/10) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
+5. 💪 Opened PR [#9](https://github.com/tejan-singh/task-manager/pull/9) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
 <!--END_SECTION:activity-->
 
 ### - Earned Badges:
