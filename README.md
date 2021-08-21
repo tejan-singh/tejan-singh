@@ -5,7 +5,7 @@
 ### I'm a Senior M.Tech(ICT) Student From University of Rajasthan.
 
 - I am a **Full Stack Developer (MERN)**.
-- I worked as a **Mentor** for various open-source projects.
+- I have worked as a **Mentor** for various open-source projects.
 - I like working together and contributing to **Open-Source Projects**.
 
 
