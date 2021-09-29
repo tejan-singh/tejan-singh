@@ -28,6 +28,11 @@
 
 ### - Here are [My Published Articles!](https://iq.opengenus.org/author/tejan/)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ### - You can connect with me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-tejansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
