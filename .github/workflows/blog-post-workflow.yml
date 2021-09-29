@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fiq.opengenus.org%2Fauthor%2Ftejan%2F%2Frss%2F"
+          feed_list: "https://iq.opengenus.org/author/tejan/"
