@@ -44,7 +44,7 @@
 
 ### - Recent Activites:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6192](https://github.com/microsoft/AdaptiveCards/issues/6192) in [microsoft/AdaptiveCards](https://github.com/microsoft/AdaptiveCards)
+1. 🗣 Commented on [#8231](https://github.com/education/GitHubGraduation-2021/issues/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 2. ❗️ Opened issue [#6192](https://github.com/microsoft/AdaptiveCards/issues/6192) in [microsoft/AdaptiveCards](https://github.com/microsoft/AdaptiveCards)
 3. 🗣 Commented on [#8231](https://github.com/education/GitHubGraduation-2021/issues/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 4. 🗣 Commented on [#8231](https://github.com/education/GitHubGraduation-2021/issues/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
