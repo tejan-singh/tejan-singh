@@ -1,4 +1,4 @@
-# Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Tejan. Welcome to my GitHub Profile!
+# Hi there, I'm Tejan. Welcome to my GitHub Profile!
 
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
 
