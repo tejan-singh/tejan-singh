@@ -25,7 +25,7 @@
 </table>
 
 
-### - Here are [My Published Articles!](https://iq.opengenus.org/author/tejan/)
+### - You can read my published articles at [FreeCodeCamp](https://www.freecodecamp.org/news/author/tejan) and [OpenGenus Foundation](https://iq.opengenus.org/author/tejan/)
 
 ### - You can connect with me on:
 
