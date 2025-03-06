@@ -2,7 +2,7 @@
 
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
 
-- I am a **Frontend Developer (ReactJS)**.
+- I am a **Technical Consultant, Project Manager and a Fullstack Developer (MERN)**.
 - I have completed M .Tech (Integrated Degree) in ICT from University of Rajasthan in 2021.
 - I have worked as a **Mentor** for various open-source projects.
 - I like working together and contributing to **Open-Source Projects**.
