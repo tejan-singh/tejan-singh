@@ -31,15 +31,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-tejansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
 
-### - Recent Activites:
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#8231](https://github.com/education/GitHubGraduation-2021/issues/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. 🗣 Commented on [#8231](https://github.com/education/GitHubGraduation-2021/issues/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-3. 🗣 Commented on [#8231](https://github.com/education/GitHubGraduation-2021/issues/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-4. 🗣 Commented on [#8231](https://github.com/education/GitHubGraduation-2021/issues/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-5. 💪 Opened PR [#12](https://github.com/tejan-singh/task-manager/pull/12) in [tejan-singh/task-manager](https://github.com/tejan-singh/task-manager)
-<!--END_SECTION:activity-->
-
 ### - Earned Badges:
 <img src="https://user-images.githubusercontent.com/50990883/103812689-e3a3cc80-5084-11eb-929e-6b3e549c8e85.png" alt="hacktoberfest2020" img align="left" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/50990883/103812918-41381900-5085-11eb-8fd0-e040b46662b7.jpg" alt="sanscript-mentor" width="100" height="100">
