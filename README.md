@@ -31,15 +31,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-tejansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
 
+```
 ### - My Github Stats:
 
 <p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true" alt="tejan-singh's Github Stats"/>
 </p>
-
-
+```
+```
 ![Metrics](https://github.com/tejan-singh/tejan-singh/blob/master/github-metrics.svg)
 
-
+```
 
 ### - Recent Activites:
 <!--START_SECTION:activity-->
