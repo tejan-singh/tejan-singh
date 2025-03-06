@@ -31,17 +31,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-tejansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejansingh)](https://www.linkedin.com/in/tejansingh)
 
-```
-### - My Github Stats:
-
-<p align = "left"><img src="https://github-readme-stats.vercel.app/api?username=tejan-singh&show_icons=true" alt="tejan-singh's Github Stats"/>
-</p>
-```
-```
-![Metrics](https://github.com/tejan-singh/tejan-singh/blob/master/github-metrics.svg)
-
-```
-
 ### - Recent Activites:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8231](https://github.com/education/GitHubGraduation-2021/issues/8231) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
